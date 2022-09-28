@@ -1,3 +1,5 @@
+<image src="https://raw.githubusercontent.com/ThatError404/Gallium-JS/main/gallium-js.ico" width="100" height="100" style="display: block; margin-left: auto; margin-right: auto;">
+
 # Why should I use Gallium JS?
 Idk. It's just tkinter but for javascript. It's not that good, but it's better than nothing, especially if you don't know html and don't want to use electron.
 
