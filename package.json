@@ -1,0 +1,16 @@
+{
+  "name": "gallium-js",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatError404/Gallium-JS"
+  },
+  "author": "thaterror404",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "bin": "global.js"
+}

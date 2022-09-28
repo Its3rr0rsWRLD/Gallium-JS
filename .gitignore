@@ -1,0 +1,4 @@
+node_modules
+gallium-js.py
+*.npmignore
+*.gitignore
